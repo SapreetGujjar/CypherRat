@@ -124,25 +124,6 @@ Apk features :
 
 --------------
 
-**SUPPORT**
-
-XMR: 8351awx7Wkr75z1yCwztGb1ZPYdxtF7BaE7G5VzTiMq6Szf8LvCUYTRGBPmegWGJAJeN6sPN4tFTM6uPW8Fn5Y2pLAwVXhC
-
-BTC: 3LqKdEXreE5f6tBoiEBy2BpBpNVfKbKXxT
-
-USDT (TRC20):	TZEvDYGxnEgxtrBweSkR2iNwmQdEmfWkco
-
--------------
-
-Contact Email: evlfdev@gmail.com
-
-contact telegram: t.me/EVLF_DEV
-
---------------
-
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/EVLF/Cypher-Rat-Full/blob/main/LICENSE) file for details
 
 
-
-
-#cypher_rat, #Cypher_rat_v3, #cypher_Rat_by_evlf, cypher rat v3, cypher rat, cypher rat 2022, Android rat v3 2022, cypher rat full version, cypher rat v5, cypherrat, android rat, rat android, android vnc, android remote, android control, android monitor, mspy, spynote, spymax, mobihok, cypher rat 3.5 , cypher rat screen control , cypher rat monitor , cypher rat v3.5 , cypher_rat_3.5
